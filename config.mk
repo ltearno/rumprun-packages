@@ -7,4 +7,4 @@
 RUMPRUN_TOOLCHAIN_TUPLE=x86_64-rumprun-netbsd
 
 # Select ssl package (another option is openssl)
-RUMPRUN_SSL=openssl
+#RUMPRUN_SSL=openssl
